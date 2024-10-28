@@ -17,6 +17,8 @@ public class Sesion34PerezED_Pilas {
         pilaPerez.push(160);
         
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es: \n"+pilaPerez);
+        
+        JOptionPane.showMessageDialog(null, "Autor: Brayan Perez Nava");
     }
     
 }
